@@ -1,6 +1,7 @@
 <?php
 /*
-	BuddyPress Installer for Pagoda Box v1.05
+	WordPress with BuddyPress
+	Installer for Pagoda Box v1.05
 	Copyright 2012 by Martin Zeitler
 	http://codefx.biz/contact
 */
