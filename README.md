@@ -1,4 +1,6 @@
 buddypress-latest
 =================
 
-BuddyPress Installer for Pagoda Box
+PagodaBox Quickstart:
+
+Installs WordPress with BuddyPress
